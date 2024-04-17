@@ -52,6 +52,10 @@ header > nav {
     letter-spacing: 2px;
 }
 
+header > h6 {
+    text-align:right;
+}
+
 /* Font Size */
 #jacquard-24-regular {
     font-size: 3.125rem;
